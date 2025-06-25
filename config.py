@@ -1,8 +1,8 @@
 # REQUIRED CONFIG
 BOT_TOKEN = "7336268486:AAG-qt1fKMOUaLJtsG9NvDo-XjzO9H_-8fw"
-TELEGRAM_API ="27473362"
+TELEGRAM_API =27473362
 TELEGRAM_HASH = "099c6626bcc1b0f8dc0183cc10cc4015"
-OWNER_ID = "5591954930"                      # Require restart after changing it while bot running
+OWNER_ID = 5591954930                   # Require restart after changing it while bot running
 DATABASE_URL = "mongodb+srv://kagut:kagut@cluster0.hol7gj5.mongodb.net/?retryWrites=true&w=majority" 
 
 # OPTIONAL CONFIG
