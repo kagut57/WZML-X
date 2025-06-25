@@ -150,8 +150,8 @@ USENET_SERVERS = [
 ]
 
 # Update
-UPSTREAM_REPO = ""
-UPSTREAM_BRANCH = "master"
+UPSTREAM_REPO = "https://github.com/kagut57/WZML-X/"
+UPSTREAM_BRANCH = "main"
 UPDATE_PKGS = True
 
 # Leech
